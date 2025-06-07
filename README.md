@@ -9,17 +9,12 @@ Serves as an exercise in C programming and project design. The focus is on impro
 - Handles kill and suspend signals via keyboard (Ctrl+C, Ctrl+Z).
 
 ## Installation
-Execute `make` in the root directory. This builds the `.shell` executable.
+1. Clone this repository
+2. Execute `make` in the root directory. This builds the `shell` executable.
 
 ## Usage
-Run the `.shell` executable. Enter commands as with a typical shell. Functionality is limited compared to standard shells.
-
-## Dependencies
-None.
+Run the `shell` executable. You will be greeted with a command prompt. Enter commands as with a typical shell. Functionality is limited compared to standard shell.
 
 ## Contributors
 - [Arjun Patel](https://github.com/arjunUpatel)
 - [Ivan Wang](https://github.com/ivanwang123)
-
-## License
-MIT License.
