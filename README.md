@@ -1,7 +1,7 @@
 # shel
 
 ## Overview
-Serves as an exercise in C programming and project design. The focus is on improving skills in system-level development, project planning, research and becoming fimilari with syscalls.
+Here one more half=baked shell for the world. I hope no one actually uses this
 
 ## Features
 - Executes programs.
