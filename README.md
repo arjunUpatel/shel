@@ -1,7 +1,7 @@
 # shel
 
 ## Overview
-Here one more half=baked shell for the world. I hope no one actually uses this
+Here one more half-baked shell for the world. I hope no one actually uses this
 
 ## Features
 - Executes programs.
